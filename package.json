@@ -1,0 +1,26 @@
+{
+  "name": "filetransfer",
+  "version": "1.0.0",
+  "description": "Simple App to learn how to load xml file from system",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.10"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.5.11",
+    "electron-window": "^0.8.1",
+    "jquery": "^3.2.1",
+    "xml2js": "^0.4.17",
+    "xml2rec": "^1.0.26"
+  },
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [
+    "load",
+    "file",
+    "learning"
+  ],
+  "author": "deepbreathnoob",
+  "license": "ISC"
+}
